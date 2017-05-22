@@ -1,0 +1,16 @@
+C:\Users\Damon\Desktop\Program\C#笔记\17C#随堂笔记\C#期中复习\Demo\Demo\bin\Release\Demo.exe.config
+C:\Users\Damon\Desktop\Program\C#笔记\17C#随堂笔记\C#期中复习\Demo\Demo\bin\Release\Demo.exe
+C:\Users\Damon\Desktop\Program\C#笔记\17C#随堂笔记\C#期中复习\Demo\Demo\bin\Release\Demo.pdb
+C:\Users\Damon\Desktop\Program\C#笔记\17C#随堂笔记\C#期中复习\Demo\Demo\bin\Release\WPF.DazzleUI2.dll
+C:\Users\Damon\Desktop\Program\C#笔记\17C#随堂笔记\C#期中复习\Demo\Demo\bin\Release\WPF.DazzleUI2.pdb
+C:\Users\Damon\Desktop\Program\C#笔记\17C#随堂笔记\C#期中复习\Demo\Demo\obj\Release\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Damon\Desktop\Program\C#笔记\17C#随堂笔记\C#期中复习\Demo\Demo\obj\Release\MainWindow.g.cs
+C:\Users\Damon\Desktop\Program\C#笔记\17C#随堂笔记\C#期中复习\Demo\Demo\obj\Release\App.g.cs
+C:\Users\Damon\Desktop\Program\C#笔记\17C#随堂笔记\C#期中复习\Demo\Demo\obj\Release\Demo_MarkupCompile.cache
+C:\Users\Damon\Desktop\Program\C#笔记\17C#随堂笔记\C#期中复习\Demo\Demo\obj\Release\Demo_MarkupCompile.lref
+C:\Users\Damon\Desktop\Program\C#笔记\17C#随堂笔记\C#期中复习\Demo\Demo\obj\Release\MainWindow.baml
+C:\Users\Damon\Desktop\Program\C#笔记\17C#随堂笔记\C#期中复习\Demo\Demo\obj\Release\Demo.g.resources
+C:\Users\Damon\Desktop\Program\C#笔记\17C#随堂笔记\C#期中复习\Demo\Demo\obj\Release\Demo.Properties.Resources.resources
+C:\Users\Damon\Desktop\Program\C#笔记\17C#随堂笔记\C#期中复习\Demo\Demo\obj\Release\Demo.csproj.GenerateResource.Cache
+C:\Users\Damon\Desktop\Program\C#笔记\17C#随堂笔记\C#期中复习\Demo\Demo\obj\Release\Demo.exe
+C:\Users\Damon\Desktop\Program\C#笔记\17C#随堂笔记\C#期中复习\Demo\Demo\obj\Release\Demo.pdb
